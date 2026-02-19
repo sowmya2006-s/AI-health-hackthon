@@ -1,0 +1,9 @@
+nibabel
+opencv-python
+timm
+albumentations
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
