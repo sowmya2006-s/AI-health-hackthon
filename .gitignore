@@ -1,8 +1,3 @@
-# Datasets
-datasets/
-Testing/
-Training/
-
 # Python
 __pycache__/
 *.py[cod]
